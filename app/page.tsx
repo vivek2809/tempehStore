@@ -48,7 +48,7 @@ export default function Home() {
         description: "See here where you can find our tempeh. And also see here if you're interested in selling our tempeh in a store or putting it on the menu at your restaurant, thank you."
       }
     },
-    da: {
+    no: {
       condiments: {
         title: "CONDIMENTS",
         subtitle: "NATURLIGE SMAGSBOOSTERE",

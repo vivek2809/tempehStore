@@ -13,7 +13,7 @@ export default function Footer() {
       pressKit: "Privacy Policy",
       news: "Impressum",
     },
-    da: {
+    no: {
       here: "Her for",
       contact: "Terms and Conditions",
       pressKit: "Privacy Policy",

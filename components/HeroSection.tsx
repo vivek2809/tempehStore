@@ -15,7 +15,7 @@ export default function HeroSection() {
       description: "Here ancient Indonesian fermentation methods meet new Nordic ingredients, in completely plant-based and natural foods that satisfy and nourish as well as they taste. Enjoy!",
       readMore: "Read more"
     },
-    da: {
+    no: {
       organic: "ØKOLOGISK",
       title: "NORDISK TEMPEH", 
       subtitle: "FERMENTERET MED OMHU I ODSHERRED",

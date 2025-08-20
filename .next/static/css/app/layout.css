@@ -495,6 +495,10 @@ video {
   margin-left: 1rem;
   margin-right: 1rem;
 }
+.mx-\[20px\]{
+  margin-left: 20px;
+  margin-right: 20px;
+}
 .mx-auto{
   margin-left: auto;
   margin-right: auto;
@@ -502,10 +506,6 @@ video {
 .my-6{
   margin-top: 1.5rem;
   margin-bottom: 1.5rem;
-}
-.mx-\[20px\]{
-  margin-left: 20px;
-  margin-right: 20px;
 }
 .mb-1{
   margin-bottom: 0.25rem;
@@ -663,26 +663,14 @@ video {
 .h-\[400px\]{
   height: 400px;
 }
-.h-\[600px\]{
-  height: 600px;
+.h-\[900px\]{
+  height: 900px;
 }
 .h-full{
   height: 100%;
 }
 .h-screen{
   height: 100vh;
-}
-.h-\[800px\]{
-  height: 800px;
-}
-.h-\[805px\]{
-  height: 805px;
-}
-.h-\[850px\]{
-  height: 850px;
-}
-.h-\[900px\]{
-  height: 900px;
 }
 .min-h-\[550px\]{
   min-height: 550px;
@@ -1039,9 +1027,6 @@ video {
 }
 .bg-white\/20{
   background-color: rgb(255 255 255 / 0.2);
-}
-.bg-white\/90{
-  background-color: rgb(255 255 255 / 0.9);
 }
 .bg-white\/50{
   background-color: rgb(255 255 255 / 0.5);
@@ -1540,21 +1525,8 @@ video {
   --tw-bg-opacity: 1;
   background-color: rgb(75 85 99 / var(--tw-bg-opacity, 1));
 }
-.group:hover .group-hover\:bg-white\/95{
-  background-color: rgb(255 255 255 / 0.95);
-}
-.group:hover .group-hover\:bg-white\/15{
-  background-color: rgb(255 255 255 / 0.15);
-}
-.group:hover .group-hover\:bg-white\/25{
-  background-color: rgb(255 255 255 / 0.25);
-}
 .group:hover .group-hover\:bg-white\/35{
   background-color: rgb(255 255 255 / 0.35);
-}
-.group:hover .group-hover\:text-gray-400{
-  --tw-text-opacity: 1;
-  color: rgb(156 163 175 / var(--tw-text-opacity, 1));
 }
 .group:hover .group-hover\:text-gray-500{
   --tw-text-opacity: 1;
